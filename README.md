@@ -1,22 +1,38 @@
-# version-control-lab1
+# version-control-lab2
+
 # *Mohamed Tharwat Elsayed*
 
 ## Remove dev branch local
+```
 git branch -d dev
 
+```
 ## Remove dev branch remotly
+```
 git push origin :dev
 
+```
+
 ## list tags
-git tag 
+```
+git tag
+
+```
 
 ## delete tag local
+```
 git tag -d v1.7
 
+```
+
 ## delete tag remote
+```
+
 git push origin --delete v1.7
 
-## images
+```
+## image
 <div>
-<img src="https://user-images.githubusercontent.com/92756055/204587925-ce291957-62a8-4a49-9af3-dc3dc75726e5.png" width="400px"/>
+<img src="https://user-images.githubusercontent.com/88733748/204658543-4f28b23f-57bc-4562-8db3-ca05f5ca78f1.png" width="400px"/>
+<img src="https://user-images.githubusercontent.com/88733748/204658543-4f28b23f-57bc-4562-8db3-ca05f5ca78f1.png" width="400px"/>
 </div>
